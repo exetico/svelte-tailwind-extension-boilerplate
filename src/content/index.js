@@ -1,1 +1,1 @@
-console.log("content script working");
+console.log('content script working 2');
